@@ -3,7 +3,7 @@
 Established expertise in the field of Data Analytics with functional knowledge on SAS, SAS Visual Analytics, Tableau & Python. I'm an aspiring Data Scientist.
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-boga/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@bogasannzay) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-boga/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sanjay-boga) [![Credly](https://img.shields.io/badge/credly-orange?logo=credly&logoColor=white)](https://www.credly.com/user/sanjay-boga/)
 
 ### 💻 Tech Stack:
 ![SAS](https://img.shields.io/badge/SAS-9.4-blue?style=for-the-badge) ![SAS Viya](https://img.shields.io/badge/SAS%20Viya-3.5-blue?style=for-the-badge) ![SAS Visual Analytics](https://img.shields.io/badge/SAS%20Visual%20Analytics-8.1-blue?style=for-the-badge) ![Tableau](https://img.shields.io/badge/Tableau-2022.2-blue?style=for-the-badge) 
